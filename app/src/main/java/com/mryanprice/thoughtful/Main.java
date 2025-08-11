@@ -1,4 +1,4 @@
-package mryanprice.com;
+package com.mryanprice.thoughtful;
 
 import java.math.BigInteger;
 import java.util.Scanner;
